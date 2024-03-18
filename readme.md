@@ -10,5 +10,5 @@ The project has been divided into 5 major phases:
 - Text Generation/Outputs: Evaluation of Instruct fine-tuned model is done by generating email responses to input text. Email response is printed for later evaluations.
 
 ## Architectural overview
-![InstrucT Fine Tune Architecture](fine_tuning_ architecture.png)
+![Instruct Fine Tune Architecture](fine_tuning_architecture.png)
 
