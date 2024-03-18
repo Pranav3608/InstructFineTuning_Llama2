@@ -9,6 +9,5 @@ The project has been divided into 5 major phases:
 - Prompt Curation: The prompt is curated in accordance to the appropriate format for the output generation. 
 - Text Generation/Outputs: Evaluation of Instruct fine-tuned model is done by generating email responses to input text. Email response is printed for later evaluations.
 
-## Architectural overview
-![Instruct Fine Tune Architecture](fine_tuning_architecture.png)
-
+## Additonal Notes
+The accuracy and precision of this implementation relies heavily on the availability and quality of data. Limited access relevant data sources may restrict the depth of our analysis and model performance.
